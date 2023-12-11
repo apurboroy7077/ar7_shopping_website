@@ -4,7 +4,7 @@ let smtpUsername = "apurboroy7077@gmail.com";
 let smtpPassword = "wnstwpnfbmpjfinv";
 let createAccountSecretKey = "AR7CreateAccount";
 let loginSecretKey = "AR7LoginKey";
-let serverURL = "https://ar7-shopping-website.onrender.com/";
+let serverURL = "https://ar7-shopping-website777.onrender.com";
 let resetPasswordKey = "AR7ResetPasswordKey";
 module.exports = {
   databaseURL,

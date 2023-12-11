@@ -7,7 +7,6 @@ let loginSecretKey = "AR7LoginKey";
 let serverURL = "https://ar7-shopping-website.onrender.com/";
 let resetPasswordKey = "AR7ResetPasswordKey";
 module.exports = {
-  serverPort,
   databaseURL,
   smtpUsername,
   smtpPassword,

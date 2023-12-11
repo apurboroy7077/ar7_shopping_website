@@ -1,5 +1,3 @@
-require("dotenv").config();
-
 let databaseURL =
   "mongodb+srv://apurbo:12345@cluster0.1g8wuka.mongodb.net/?retryWrites=true&w=majority";
 let smtpUsername = "apurboroy7077@gmail.com";
